@@ -25,7 +25,7 @@ I will be sharing my progress through:
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Python Basics | ✅ Completed |
-| Day 2 | If / Else Statements | ⏳ In Progress |
+| Day 2 | If / Else Statements | ✅ Completed |
 | Day 3 | Loops | ⏳ Coming Soon |
 | Day 4 | Functions | ⏳ Coming Soon |
 | Day 5 | Lists & Dictionaries | ⏳ Coming Soon |
