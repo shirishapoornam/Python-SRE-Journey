@@ -24,10 +24,10 @@ I will be sharing my progress through:
 
 | Day | Topic | Status | progress |
 |-----|-------|--------|--------|
-| Day 1 | Python Basics | ✅ Completed | - Variables
-- Data Types (String, Integer, Float)
-- print() function
-- Basic syntax
+| Day 1 | Python Basics | ✅ Completed | - Variables |
+                                          - Data Types (String, Integer, Float) |
+                                          - print() function |
+                                          - Basic syntax |
 | Day 2 | If / Else Statements | ✅ Completed |
 | Day 3 | Loops | ✅ Completed |
 | Day 4 | Functions | ⏳ Coming Soon |
