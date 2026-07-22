@@ -22,13 +22,13 @@ I will be sharing my progress through:
 
 ## 📅 Learning Roadmap
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Python Basics | ✅ Completed |
-| Day 2 | If / Else Statements | ✅ Completed |
-| Day 3 | Loops | ⏳ Coming Soon |
-| Day 4 | Functions | ⏳ Coming Soon |
-| Day 5 | Lists & Dictionaries | ⏳ Coming Soon |
+| Day | Topic | Status | progress |
+|-----|-------|--------|--------|
+| Day 1 | Python Basics | ✅ Completed | - Variables - Data Types (String, Integer, Float) - print() function - Basic syntax |
+| Day 2 | If / Else Statements | ✅ Completed | - if, elif, else - Comparison operators - Logical operators (and, or) - Server Health Check Project - CPU and Memory monitoring logic |
+| Day 3 | Loops | ✅ Completed | - Lists - Tuples - for loops - Loop variables - enumerate() - Iterating through server lists - Understanding variables vs strings |
+| Day 4 | Functions | ⏳ Coming Soon | |
+| Day 5 | Lists & Dictionaries | ⏳ Coming Soon | |
 
 ---
 
