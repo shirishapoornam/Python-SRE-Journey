@@ -28,7 +28,7 @@ I will be sharing my progress through:
 | Day 2 | If / Else Statements | ✅ Completed | - if, elif, else - Comparison operators - Logical operators (and, or) - Server Health Check Project - CPU and Memory monitoring logic |
 | Day 3 | Loops | ✅ Completed | - Lists - Tuples - for loops - Loop variables - enumerate() - Iterating through server lists - Understanding variables vs strings |
 | Day 4 | Functions | ✅ Completed | - What are functions? - Creating functions using `def` - Calling functions - Function parameters - Passing arguments - Using functions with `for` loops - Returning values using `return`|
-| Day 5 | Lists & Dictionaries | ⏳ Coming Soon | |
+| Day 5 | Lists & Dictionaries | ✅ Completed | - Dictionaries - Key-Value pairs - List of Dictionaries - Accessing dictionary values - Updating dictionary values - Conditional statements - Loops with dictionaries - Building a monitoring report - Counting Healthy, Warning and Critical servers | 
 
 ---
 
