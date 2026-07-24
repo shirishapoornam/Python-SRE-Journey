@@ -1,0 +1,4 @@
+prod-api-01,45,60
+prod-db-01,95,82
+prod-cache-01,75,72
+prod-auth-01,55,40
