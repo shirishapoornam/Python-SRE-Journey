@@ -29,7 +29,14 @@ I will be sharing my progress through:
 | Day 3 | Loops | ✅ Completed | - Lists - Tuples - for loops - Loop variables - enumerate() - Iterating through server lists - Understanding variables vs strings |
 | Day 4 | Functions | ✅ Completed | - What are functions? - Creating functions using `def` - Calling functions - Function parameters - Passing arguments - Using functions with `for` loops - Returning values using `return`|
 | Day 5 | Lists & Dictionaries | ✅ Completed | - Dictionaries - Key-Value pairs - List of Dictionaries - Accessing dictionary values - Updating dictionary values - Conditional statements - Loops with dictionaries - Building a monitoring report - Counting Healthy, Warning and Critical servers | 
-
+| Day 6 | Reading Files & Handling Files | ✅ Completed | Reading files (open(..., "r")) - Writing files (open(..., "w"))
+- String methods (strip(), split()) - Type Conversion (int()) |
+| Day 7 | Modules & Imports | ✅ Completed | - Importing modules (import math) - Importing specific functions (from math import sqrt) - Using sqrt() - Using floor() - Using ceil() - Importing your own Python files (server_utils.py) - Calling functions from another file - Understanding the difference between:print(check_health) ❌ (prints the function object)
+print(check_health(85)) (prints the returned value) |
+| Day 8 | | inprogress | |
+| Day 9 | | inprogress | |
+| Day 10 | | inprogress | |
+| Day 11 | | inprogress | |
 ---
 
 ## 📂 Repository Structure
