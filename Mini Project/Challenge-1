@@ -1,0 +1,13 @@
+try:
+    print("monitoring server status")
+    cpu = int(input("Enter cpu usage: "))
+    if cpu > 90:
+       print("Server status : Critical")
+    elif cpu > 70:
+       print("Server status : Warning")
+    else:
+       print("Server status : Healthy")
+except ValueError:
+    print("invalid cpu value received")
+finally:
+    print("Monitoring completed")

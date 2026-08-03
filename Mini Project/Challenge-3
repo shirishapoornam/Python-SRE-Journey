@@ -1,0 +1,32 @@
+read_file = open("Mini Project/servers.txt", "r")
+write_file = open("Mini Project/server_report.txt", "w")
+
+for line in read_file:
+    line = line.strip()
+    if line == "":
+        continue
+
+    print(repr(line))
+
+    parts = line.split(",")
+    print(parts)
+
+    name = parts[0]
+    cpu = int(parts[1])
+    print(line)
+    if cpu > 90 :
+        status = "Critical"
+    elif cpu > 70 :
+        status = "Warning"
+    else:
+        status = "Healthy"
+    print(name, cpu, status)
+    write_file.write("Server :" + name + "\n")
+    write_file.write("Cpu :" + str(cpu) + "\n")
+    write_file.write("status :" + status + "\n")
+    write_file.write("---------------------------" + "\n")
+
+read_file.close()
+write_file.close()
+
+

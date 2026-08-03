@@ -1,0 +1,33 @@
+servers = [
+    {
+        "name" : "prod-api-01",
+        "cpu": 45,
+    },
+    {
+        "name" : "prod-api-02",
+        "cpu" : 95,
+    },
+    {
+        "name" : "prod-db-01",
+        "cpu" : 72,
+    },
+    {
+        "name" : "prod-db-02",
+        "cpu" : 60,
+    },
+    {
+        "name" : "prod-cache-01",
+        "cpu" : 88,
+    },
+]
+print("Monitoring servers")
+for number, server in enumerate(servers, start=1):
+
+
+
+
+
+
+
+
+

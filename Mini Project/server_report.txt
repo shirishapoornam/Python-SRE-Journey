@@ -1,0 +1,20 @@
+Server :prod-api-01
+Cpu :45
+status :Healthy
+---------------------------
+Server :prod-db-01
+Cpu :95
+status :Critical
+---------------------------
+Server :prod-cache-01
+Cpu :72
+status :Warning
+---------------------------
+Server :prod-auth-01
+Cpu :60
+status :Healthy
+---------------------------
+Server :prod-web-01
+Cpu :88
+status :Warning
+---------------------------
